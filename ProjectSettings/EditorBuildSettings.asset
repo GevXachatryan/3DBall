@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Maniu.unity
+    guid: 86ce158f58af44e5f91226249ea87c3d
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Scen2.unity
+    guid: cb1ed824bd55444ea8b2586dbe1e8195
+  - enabled: 1
+    path: Assets/Scenes/Scen3.unity
+    guid: e50bb0e20d5c74723a60a653a31ccfb2
+  - enabled: 1
+    path: Assets/Scenes/Scen4.unity
+    guid: 41874dc775c1c478a96ea9bf12b584cc
+  - enabled: 1
+    path: Assets/Scenes/Scen5.unity
+    guid: b448e780cc9de4a3c8f0e71451fdeef1
+  - enabled: 1
+    path: Assets/Scenes/Scen6.unity
+    guid: 8f949b45c4b18403195449f64adc2a73
+  - enabled: 1
+    path: Assets/Scenes/Scen7.unity
+    guid: 9bdd707f25ce041c7bc61106897e46ea
+  - enabled: 1
+    path: Assets/Scenes/Scen8.unity
+    guid: 863f8565816f34e1a91614113adc3d18
+  - enabled: 1
+    path: Assets/Scenes/Scen9.unity
+    guid: 105d4c64ffeef406cba7fe120a2f250b
+  - enabled: 1
+    path: Assets/Scenes/Scen10.unity
+    guid: 21cadba01d12e4c3292c34d5490321cb
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: 82d3b72cd26bd4267af2dd0ad9391912
+  m_configObjects: {}
